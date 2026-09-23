@@ -2,3 +2,4 @@ john smith , football
 priya patel , basketball
 rohan mehta , cricket
 Coach records are maintained by the club.
+Coaches help players improve their performance.
