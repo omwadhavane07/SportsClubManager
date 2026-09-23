@@ -1,3 +1,3 @@
-player register for tryouts
-coaches evaluate players on skill and fitness.
-selected players are added to the team.
+players register for tryouts.
+coaches evaluate players based on skill , fitness and attitude
+selected players are added to the team
