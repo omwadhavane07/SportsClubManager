@@ -1,3 +1,4 @@
 ronaldo , football , forward
 sachin , cricket , bater
 Players can be registered for multiple sports.
+Players can update their registration details.
